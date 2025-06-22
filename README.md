@@ -5,6 +5,8 @@ This repository demonstrates the **Spring AI Routing Workflow Pattern**, an inte
 📖 **Dive Deeper**: For a complete walkthrough, detailed explanations of the Routing Workflow pattern, and step-by-step instructions for the example application, read our blog post.<br>
 👉 [Spring AI Routing Workflow: Intelligent Request Routing with LLM-Powered Classification](https://bootcamptoprod.com/spring-ai-routing-workflow-guide/)
 
+🎥 **Visual Learning**: Prefer video tutorials? Watch our step-by-step implementation guide on YouTube.<br>
+👉 [Spring AI Routing Workflow: Intelligent Request Routing with LLM-Powered Classification](https://youtu.be/_HKoUl78GXk) 🤖
 ---
 
 ## 📦 Environment Variables
